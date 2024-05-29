@@ -1,0 +1,17 @@
+{
+  "name": "auktion-sida",
+  "version": "1.0.0",
+  "description": "This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.",
+  "main": "index.js",
+  "scripts": {
+    "install": "concurrently \"cd server && npm i\" \"cd client && npm i\"",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "concurrently \"cd server && nodemon server.js\" \"cd client && npm run dev\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}

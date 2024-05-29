@@ -1,0 +1,250 @@
+{
+  "accounts": [
+    {
+      "id": "5e1d",
+      "username": "no92one",
+      "password": "abc123",
+      "watching": [
+        "3d06",
+        "7406"
+      ],
+      "bids": [
+        "3d06",
+        "3d06",
+        "7406"
+      ]
+    }
+  ],
+  "products": [
+    {
+      "id": "3d06",
+      "name": "Hunden",
+      "startBid": 25000,
+      "activeBid": {
+        "userId": "5e1d",
+        "amount": "45000",
+        "time": "2024-03-21T17:36"
+      },
+      "endTime": "2024-03-24T16:00",
+      "bidHistory": [
+        {
+          "userId": "1e1d",
+          "amount": "30000",
+          "time": "2024-03-21T17:36"
+        }
+      ],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://images.t3n.de/news/wp-content/uploads/2022/11/getimgai-ki-bilder.jpg?class=hero-small"
+    },
+    {
+      "id": "7406",
+      "name": "Test Hunden0",
+      "endTime": "2024-03-20T09:30",
+      "startBid": 11843,
+      "activeBid": {
+        "userId": "5e1d",
+        "amount": "2000000",
+        "time": "2024-03-27T12:6"
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://cc-prod.scene7.com/is/image/CCProdAuthor/FF-SEO-text-to-image-marquee-mobile-2x?$pjpeg$&jpegSize=100&wid=600"
+    },
+    {
+      "id": "2723",
+      "name": "Test Hunden1",
+      "endTime": "2024-03-01T09:30",
+      "startBid": 20166,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://images.t3n.de/news/wp-content/uploads/2022/11/getimgai-ki-bilder.jpg?class=hero-small"
+    },
+    {
+      "id": "34a0",
+      "name": "Test Hunden2",
+      "endTime": "2024-03-02T09:30",
+      "startBid": 3350,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://cc-prod.scene7.com/is/image/CCProdAuthor/FF-SEO-text-to-image-marquee-mobile-2x?$pjpeg$&jpegSize=100&wid=600"
+    },
+    {
+      "id": "e801",
+      "name": "Test Hunden3",
+      "endTime": "2024-03-03T09:30",
+      "startBid": 14961,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://images.t3n.de/news/wp-content/uploads/2022/11/getimgai-ki-bilder.jpg?class=hero-small"
+    },
+    {
+      "id": "3723",
+      "name": "Test Hunden4",
+      "endTime": "2024-03-04T09:30",
+      "startBid": 15948,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://cc-prod.scene7.com/is/image/CCProdAuthor/FF-SEO-text-to-image-marquee-mobile-2x?$pjpeg$&jpegSize=100&wid=600"
+    },
+    {
+      "id": "fa73",
+      "name": "Test Hunden5",
+      "endTime": "2024-03-05T09:30",
+      "startBid": 13698,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://images.t3n.de/news/wp-content/uploads/2022/11/getimgai-ki-bilder.jpg?class=hero-small"
+    },
+    {
+      "id": "8aa6",
+      "name": "Test Hunden6",
+      "endTime": "2024-03-06T09:30",
+      "startBid": 14017,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://cc-prod.scene7.com/is/image/CCProdAuthor/FF-SEO-text-to-image-marquee-mobile-2x?$pjpeg$&jpegSize=100&wid=600"
+    },
+    {
+      "id": "a7e3",
+      "name": "Test Hunden7",
+      "endTime": "2024-03-07T09:30",
+      "startBid": 21966,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://images.t3n.de/news/wp-content/uploads/2022/11/getimgai-ki-bilder.jpg?class=hero-small"
+    },
+    {
+      "id": "92b9",
+      "name": "Test Hunden8",
+      "endTime": "2024-03-08T09:30",
+      "startBid": 10605,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://cc-prod.scene7.com/is/image/CCProdAuthor/FF-SEO-text-to-image-marquee-mobile-2x?$pjpeg$&jpegSize=100&wid=600"
+    },
+    {
+      "id": "34ba",
+      "name": "Test Hunden9",
+      "endTime": "2024-03-09T09:30",
+      "startBid": 14633,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://images.t3n.de/news/wp-content/uploads/2022/11/getimgai-ki-bilder.jpg?class=hero-small"
+    },
+    {
+      "id": "b48c",
+      "name": "Test Hunden10",
+      "endTime": "2024-03-10T09:30",
+      "startBid": 16181,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://cc-prod.scene7.com/is/image/CCProdAuthor/FF-SEO-text-to-image-marquee-mobile-2x?$pjpeg$&jpegSize=100&wid=600"
+    },
+    {
+      "id": "2b6f",
+      "name": "Test Hunden11",
+      "endTime": "2024-03-11T09:30",
+      "startBid": 18608,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://images.t3n.de/news/wp-content/uploads/2022/11/getimgai-ki-bilder.jpg?class=hero-small"
+    },
+    {
+      "id": "c737",
+      "name": "Test Hunden12",
+      "endTime": "2024-03-12T09:30",
+      "startBid": 12926,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://images.t3n.de/news/wp-content/uploads/2022/11/getimgai-ki-bilder.jpg?class=hero-small"
+    },
+    {
+      "id": "740d",
+      "name": "Test Hunden13",
+      "endTime": "2024-03-13T09:30",
+      "startBid": 8843,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://cc-prod.scene7.com/is/image/CCProdAuthor/FF-SEO-text-to-image-marquee-mobile-2x?$pjpeg$&jpegSize=100&wid=600"
+    },
+    {
+      "id": "b1f1",
+      "name": "Test Hunden14",
+      "endTime": "2024-03-14T09:30",
+      "startBid": 7481,
+      "activeBid": {
+        "userId": "",
+        "amount": "0",
+        "time": ""
+      },
+      "bidHistory": [],
+      "description": "Någon beskrivning...",
+      "imageURL": "https://images.t3n.de/news/wp-content/uploads/2022/11/getimgai-ki-bilder.jpg?class=hero-small"
+    }
+  ]
+}
